@@ -1,0 +1,13 @@
+﻿phong.obj : error LNK2005: "struct scene sc" (?sc@@3Uscene@@A)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: _main이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: "void __cdecl shutdown(void)" (?shutdown@@YAXXZ)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: "void __cdecl render(void)" (?render@@YAXXZ)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: "void __cdecl idle(void)" (?idle@@YAXXZ)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: "void __cdecl startup(void)" (?startup@@YAXXZ)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+view.obj : error LNK2005: "struct scene sc" (?sc@@3Uscene@@A)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: _main이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: "void __cdecl shutdown(void)" (?shutdown@@YAXXZ)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: "void __cdecl render(void)" (?render@@YAXXZ)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: "void __cdecl idle(void)" (?idle@@YAXXZ)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+phong_실습.obj : error LNK2005: "void __cdecl startup(void)" (?startup@@YAXXZ)이(가) phong_실습.obj에 이미 정의되어 있습니다.
+C:\Users\user\Desktop\2019-2\인터랙티브컴퓨터그래픽스\Graphics_Camera\Release\Graphics_Camera.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

@@ -1,0 +1,9 @@
+﻿  middle_assignment.cpp
+C:\Users\user\Desktop\2019-2\인터랙티브컴퓨터그래픽스\Graphics\middle_assignment.cpp(40,29): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Desktop\2019-2\인터랙티브컴퓨터그래픽스\Graphics\middle_assignment.cpp(56,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2019-2\인터랙티브컴퓨터그래픽스\Graphics\middle_assignment.cpp(57,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\2019-2\인터랙티브컴퓨터그래픽스\Graphics\middle_assignment.cpp(58,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2019-2\인터랙티브컴퓨터그래픽스\Graphics\middle_assignment.cpp(83,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2019-2\인터랙티브컴퓨터그래픽스\Graphics\middle_assignment.cpp(84,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\2019-2\인터랙티브컴퓨터그래픽스\Graphics\middle_assignment.cpp(85,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Graphics.vcxproj -> C:\Users\user\Desktop\2019-2\인터랙티브컴퓨터그래픽스\Graphics\Debug\Graphics.exe
